@@ -4,7 +4,13 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Amazon 2.0</title>
+        <title>Cyclone Smart products</title>
+          <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+          <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+          <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+          <link rel="manifest" href="/site.webmanifest"></link>
+          <meta name="description" content="Cyclone smart products webshop" />
+          <link rel="icon" href="/favicon.ico" />
       </Head>
 
       {/* ---- TO BEGIN, delete this section and GET CODING!!! ---- */}
